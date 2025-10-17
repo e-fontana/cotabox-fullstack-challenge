@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/e-fontana/cotabox-challenge-app.git
+[submodule "server"]
+	path = server
+	url = https://github.com/e-fontana/cotabox-challenge-server.git
